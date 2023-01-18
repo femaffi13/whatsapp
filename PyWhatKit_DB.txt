@@ -1,0 +1,280 @@
+Date: 17/1/2023
+Time: 9:49
+Phone Number: +5491136866431
+Message: Hola Tefi
+--------------------
+Date: 17/1/2023
+Time: 9:51
+Phone Number: +5491136866431
+Message: Hola Tefi
+--------------------
+Date: 17/1/2023
+Time: 9:52
+Phone Number: +5491136866431
+Message: Hola Tefi 9.51
+--------------------
+Date: 17/1/2023
+Time: 9:55
+Phone Number: +5491136866431
+Message: Mensaje De Prueba
+--------------------
+Date: 17/1/2023
+Time: 10:10
+Phone Number: +5491136866431
+Message: Hola a todos!
+--------------------
+Date: 17/1/2023
+Time: 10:11
+Phone Number: +5491130171186
+Message: Hola Tefiii
+--------------------
+Date: 17/1/2023
+Time: 10:13
+Phone Number: +5491136866431
+Message: Hola a todos 2!
+--------------------
+Date: 17/1/2023
+Time: 10:13
+Phone Number: +5491130171186
+Message: Hola a todos 2!
+--------------------
+Date: 17/1/2023
+Time: 10:31
+Phone Number: +5491122916213
+Message: Buen día Don Agustín, mi nombre es Tito. Le estoy mandando mensaje automatizado por parte de Don Fede
+--------------------
+Date: 17/1/2023
+Time: 10:37
+Phone Number: +5491136866431
+Message: Hola a todos 2!
+--------------------
+Date: 17/1/2023
+Time: 10:37
+Phone Number: +5491130171186
+Message: Hola a todos 2!
+--------------------
+Date: 17/1/2023
+Time: 10:38
+Phone Number: +5491138056772
+Message: Hola a todos 2!
+--------------------
+Date: 17/1/2023
+Time: 11:2
+Phone Number: +5491136866431
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:3
+Phone Number: +5491130171186
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:3
+Phone Number: +5491138056772
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:3
+Phone Number: +5491136866431
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:4
+Phone Number: +5491130171186
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:4
+Phone Number: +5491138056772
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:4
+Phone Number: +5491136866431
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:4
+Phone Number: +5491130171186
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:5
+Phone Number: +5491138056772
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:5
+Phone Number: +5491136866431
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:5
+Phone Number: +5491130171186
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:5
+Phone Number: +5491138056772
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:9
+Phone Number: +5491136866431
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:9
+Phone Number: +5491130171186
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:9
+Phone Number: +5491138056772
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:10
+Phone Number: +5491136866431
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:10
+Phone Number: +5491130171186
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:10
+Phone Number: +5491138056772
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:11
+Phone Number: +5491136866431
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:11
+Phone Number: +5491130171186
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:11
+Phone Number: +5491138056772
+Message: Mensaje rápido
+--------------------
+Date: 17/1/2023
+Time: 11:24
+Phone Number: +5491136866431
+Message: Buen día Belen!
+--------------------
+Date: 17/1/2023
+Time: 11:24
+Phone Number: +5491130171186
+Message: Buen día Tefi!
+--------------------
+Date: 17/1/2023
+Time: 11:24
+Phone Number: +5491138056772
+Message: Buen día Fede!
+--------------------
+Date: 17/1/2023
+Time: 11:26
+Phone Number: +5491136866431
+Message: Buen día Belen!
+--------------------
+Date: 17/1/2023
+Time: 11:26
+Phone Number: +5491130171186
+Message: Buen día Tefi!
+--------------------
+Date: 17/1/2023
+Time: 11:26
+Phone Number: +5491138056772
+Message: Buen día Fede!
+--------------------
+Date: 18/1/2023
+Time: 11:35
+Phone Number: +5491136866431
+Message: Hola Belen mensaje de primera lineaSegunda linea
+--------------------
+Date: 18/1/2023
+Time: 11:35
+Phone Number: +5491130171186
+Message: Hola Belen mensaje de primera lineaSegunda linea
+--------------------
+Date: 18/1/2023
+Time: 11:35
+Phone Number: +5491138056772
+Message: Hola Belen mensaje de primera lineaSegunda linea
+--------------------
+Date: 18/1/2023
+Time: 11:37
+Phone Number: +5491136866431
+Message: Hola Belen mensaje de primera lineaSegunda linea
+--------------------
+Date: 18/1/2023
+Time: 11:37
+Phone Number: +5491130171186
+Message: Hola Tefi mensaje de primera lineaSegunda linea
+--------------------
+Date: 18/1/2023
+Time: 11:37
+Phone Number: +5491138056772
+Message: Hola Fede mensaje de primera lineaSegunda linea
+--------------------
+Date: 18/1/2023
+Time: 11:40
+Phone Number: +5491136866431
+Message: Hola Belen mensaje de primera linea ✔Segunda linea ❌
+--------------------
+Date: 18/1/2023
+Time: 11:41
+Phone Number: +5491130171186
+Message: Hola Tefi mensaje de primera linea ✔Segunda linea ❌
+--------------------
+Date: 18/1/2023
+Time: 11:41
+Phone Number: +5491138056772
+Message: Hola Fede mensaje de primera linea ✔Segunda linea ❌
+--------------------
+Date: 18/1/2023
+Time: 11:46
+Phone Number: +5491136866431
+Message: Hola Belen 🖐Te contacto porque Credicuotas quiere derivar tu caso a judiciales, te interesa resolver? Tenemos tiempo hasta el 16 para que resuelvas y puedan abonar con tarjeta de crédito. 💳No dejes de comunicarte al 1152170510 📞
+--------------------
+Date: 18/1/2023
+Time: 11:46
+Phone Number: +5491130171186
+Message: Hola Tefi 🖐Te contacto porque Credicuotas quiere derivar tu caso a judiciales, te interesa resolver? Tenemos tiempo hasta el 16 para que resuelvas y puedan abonar con tarjeta de crédito. 💳No dejes de comunicarte al 1152170510 📞
+--------------------
+Date: 18/1/2023
+Time: 11:47
+Phone Number: +5491138056772
+Message: Hola Fede 🖐Te contacto porque Credicuotas quiere derivar tu caso a judiciales, te interesa resolver? Tenemos tiempo hasta el 16 para que resuelvas y puedan abonar con tarjeta de crédito. 💳No dejes de comunicarte al 1152170510 📞
+--------------------
+Date: 18/1/2023
+Time: 11:48
+Phone Number: +5491136866431
+Message: Hola Belen 🖐Te contacto porque Credicuotas quiere derivar tu caso a judiciales, te interesa resolver? Tenemos tiempo hasta el 16 para que resuelvas y puedan abonar con tarjeta de crédito. 💳No dejes de comunicarte al 1152170510 📞
+--------------------
+Date: 18/1/2023
+Time: 11:48
+Phone Number: +5491130171186
+Message: Hola Tefi 🖐Te contacto porque Credicuotas quiere derivar tu caso a judiciales, te interesa resolver? Tenemos tiempo hasta el 16 para que resuelvas y puedan abonar con tarjeta de crédito. 💳No dejes de comunicarte al 1152170510 📞
+--------------------
+Date: 18/1/2023
+Time: 11:48
+Phone Number: +5491138056772
+Message: Hola Fede 🖐Te contacto porque Credicuotas quiere derivar tu caso a judiciales, te interesa resolver? Tenemos tiempo hasta el 16 para que resuelvas y puedan abonar con tarjeta de crédito. 💳No dejes de comunicarte al 1152170510 📞
+--------------------
+Date: 18/1/2023
+Time: 11:48
+Phone Number: +5491122916213
+Message: Hola Agustín 🖐Te contacto porque Credicuotas quiere derivar tu caso a judiciales, te interesa resolver? Tenemos tiempo hasta el 16 para que resuelvas y puedan abonar con tarjeta de crédito. 💳No dejes de comunicarte al 1152170510 📞
+--------------------
+Date: 18/1/2023
+Time: 12:1
+Phone Number: +541138056772
+Message: Buen día
+--------------------
